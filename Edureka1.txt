@@ -1,3 +1,5 @@
 Hi,This is a session from Edureka.
 
 Adding a new line of text
+
+Adding a new line in rebase branch
